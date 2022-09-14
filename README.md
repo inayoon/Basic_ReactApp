@@ -5,7 +5,8 @@
 ## Shoe shop
 
 In the project directory, you can run:
-<img src="https://user-images.githubusercontent.com/100747899/190060040-a9a64a70-ab06-4d5c-a152-62069f06af97.mp4">
+<img src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/100747899/190060596-31f08133-cb55-4320-a086-273826e37574.gif)
+">
 
 ### `npm start`
 
