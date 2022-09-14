@@ -1,13 +1,11 @@
 # Basic React Application 
 
 - Mini React Website. 
-<img src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/100747899/190060596-31f08133-cb55-4320-a086-273826e37574.gif)
-">
+- 
 ## Shoe shop
 
 In the project directory, you can run:
-<img src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/100747899/190060596-31f08133-cb55-4320-a086-273826e37574.gif)
-">
+<img src="https://user-images.githubusercontent.com/100747899/190060596-31f08133-cb55-4320-a086-273826e37574.gif">
 
 ### `npm start`
 
