@@ -1,18 +1,18 @@
 # Basic React Application 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Mini React Website. 
 
 ## Shoe shop
 
 In the project directory, you can run:
+<img src="https://user-images.githubusercontent.com/100747899/190060040-a9a64a70-ab06-4d5c-a152-62069f06af97.mp4">
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
 
 ### `npm test`
 
